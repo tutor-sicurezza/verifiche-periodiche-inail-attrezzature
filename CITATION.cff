@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Verifiche periodiche INAIL/ASL — Attrezzature di lavoro (Allegato VII D.Lgs 81/08)"
+message: "Se usi questo dataset, cita il repository."
+type: dataset
+authors:
+  - name: "tutor-sicurezza"
+repository-code: "https://github.com/tutor-sicurezza/verifiche-periodiche-inail-attrezzature"
+license: CC-BY-SA-4.0
+version: "1.0.0"
+date-released: "2026-06-20"
+keywords:
+  - inail
+  - verifiche-periodiche
+  - allegato-vii
+  - dlgs-81-08
+  - sicurezza-lavoro
+  - attrezzature
+  - dataset
+  - italian-data

@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "fonte_normativa": {
+    "primaria": "D.Lgs 9 aprile 2008, n. 81 — Allegato VII",
+    "attuativo": "D.M. 11 aprile 2011 — Disciplina delle modalità di effettuazione delle verifiche periodiche di cui all’All. VII del D.Lgs 81/08",
+    "circolari": [
+      "Circolare INAIL n. 23/2012",
+      "Circolare INAIL n. 9/2013",
+      "Lettera Circolare Ministero del Lavoro 11/03/2013"
+    ]
+  },
+  "principi": {
+    "prima_verifica": "Effettuata da INAIL entro 60 giorni dalla richiesta. In caso di mancata effettuazione nei termini il datore di lavoro può rivolgersi a soggetti pubblici o privati abilitati.",
+    "verifiche_successive": "Effettuate da ASL/ARPA territorialmente competenti (in alcune regioni: aziende sanitarie regionali). Anche in questo caso, decorsi i 30 giorni dalla richiesta senza effettuazione, il datore di lavoro può rivolgersi a soggetti abilitati.",
+    "soggetti_abilitati": "Iscritti nell’elenco del Ministero del Lavoro ex D.D. 22 maggio 2012 e s.m.i.",
+    "onere": "A carico del datore di lavoro (tariffe ex D.M. 11/04/2011)."
+  },
+  "ultimo_aggiornamento": "2026-06",
+  "disclaimer": "Sintesi informativa. Le periodicità qui riportate si riferiscono al testo dell’Allegato VII del D.Lgs 81/08 come da ultimo aggiornato. Verificare sempre la versione vigente su Normattiva e le circolari INAIL applicabili.",
+  "attrezzature": [
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg",
+      "tipologia": "Ponti sospesi e relativi argani",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL", "note": "Verifica di prima installazione/messa in servizio"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08, sezione apparecchi sollevamento"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg",
+      "tipologia": "Idroestrattori a forza centrifuga di tipo discontinuo con diametro del paniere > 500 mm",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg, non azionati a mano",
+      "tipologia": "Apparecchi di sollevamento di tipo mobile (es. autogru, gru su autocarro)",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg, non azionati a mano",
+      "tipologia": "Apparecchi di sollevamento trasferibili (es. gru su pneumatici)",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg, non azionati a mano",
+      "tipologia": "Carriponte, gru a ponte, gru a cavalletto in genere di tipo fisso",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato", "note": "Frequenza biennale se impiegati in settori non siderurgico/portuale e con condizioni d’uso ridotte (verificare scheda tecnica INAIL)"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg, non azionati a mano",
+      "tipologia": "Gru a torre per edilizia",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento materiali con portata > 200 kg, non azionati a mano",
+      "tipologia": "Argani, paranchi, montacarichi azionati a motore",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato", "note": "Annuale se usati in cantiere edile o estrazione minerale"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento persone",
+      "tipologia": "Scale aeree ad inclinazione variabile",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento persone",
+      "tipologia": "Ponti mobili sviluppabili su carro (PLE) ad azionamento motorizzato",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Apparecchi di sollevamento persone",
+      "tipologia": "Ponti sospesi e relativi argani per il sollevamento di persone",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Ascensori e montacarichi",
+      "tipologia": "Ascensori e montacarichi da cantiere con cabina/piattaforma guidata verticalmente lungo guide rigide",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 1, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII D.Lgs 81/08"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Recipienti contenenti gas compressi, liquefatti, disciolti (gruppo 1) con PS·V > 50 bar·L",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL", "note": "Verifica di messa in servizio + dichiarazione"},
+      "verifica_successiva": {"periodicita_anni": 4, "soggetto": "ASL/ARPA o soggetto abilitato", "note": "Verifica di funzionamento; integrità decennale"},
+      "riferimento": "All. VII — All. al D.M. 11/04/2011"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Generatori di vapore d’acqua",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato", "note": "Verifica di funzionamento biennale; visita interna biennale; visita esterna annuale per generatori >> soglia"},
+      "riferimento": "All. VII"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Generatori di calore alimentati da combustibile solido/liquido/gassoso per impianti centrali di riscaldamento utilizzanti acqua calda sotto pressione con T < 110 °C e potenzialità > 116 kW",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL", "note": "Verifica di messa in servizio"},
+      "verifica_successiva": {"periodicita_anni": 5, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Recipienti per liquidi surriscaldati diversi da acqua",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 3, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Forni per industrie chimiche e affini",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 2, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII"
+    },
+    {
+      "categoria": "Attrezzature/insiemi a pressione",
+      "tipologia": "Tubazioni gas/vapore/acqua surriscaldata di categoria > I (PED 2014/68/UE)",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 5, "soggetto": "ASL/ARPA o soggetto abilitato", "note": "Verifica integrità decennale"},
+      "riferimento": "All. VII + D.M. 329/2004"
+    },
+    {
+      "categoria": "Impianti di riscaldamento",
+      "tipologia": "Impianti di riscaldamento con acqua surriscaldata (T > 110 °C) con potenzialità > 116 kW",
+      "prima_verifica": {"periodicita_anni": null, "soggetto": "INAIL"},
+      "verifica_successiva": {"periodicita_anni": 3, "soggetto": "ASL/ARPA o soggetto abilitato"},
+      "riferimento": "All. VII"
+    }
+  ]
+}

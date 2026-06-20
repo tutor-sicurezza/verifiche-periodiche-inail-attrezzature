@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "descrizione": "Tabella sintetica delle scadenze più frequenti per le verifiche periodiche successive (post prima verifica INAIL).",
+  "fonte": "All. VII D.Lgs 81/08 + D.M. 11/04/2011",
+  "ultimo_aggiornamento": "2026-06",
+  "scadenze": [
+    {"attrezzatura": "Carriponte / gru a ponte / gru a cavalletto fisse", "periodicita": "1 anno (riducibile a 2 in condizioni d’uso limitate)", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Gru a torre per edilizia", "periodicita": "1 anno", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Autogru / gru su autocarro", "periodicita": "1 anno", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "PLE (piattaforme di lavoro elevabili)", "periodicita": "1 anno", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Scale aeree ad inclinazione variabile", "periodicita": "1 anno", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Ponti sospesi / argani sollevamento cose", "periodicita": "2 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Ponti sospesi per persone", "periodicita": "2 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Argani / paranchi / montacarichi motorizzati", "periodicita": "2 anni (1 anno in cantiere edile/minerario)", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Idroestrattori centrifughi discontinui (paniere > 500 mm)", "periodicita": "2 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Ascensori e montacarichi da cantiere", "periodicita": "1 anno", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Generatori di vapore d’acqua", "periodicita": "2 anni (visita esterna annuale per generatori sopra soglia)", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Generatori di calore impianti centrali (P > 116 kW, T < 110 °C)", "periodicita": "5 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Impianti riscaldamento acqua surriscaldata (T > 110 °C, P > 116 kW)", "periodicita": "3 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Recipienti gas compressi gruppo 1 (PS·V > 50 bar·L)", "periodicita": "4 anni (funzionamento) — 10 anni (integrità)", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Tubazioni gas/vapore/acqua surriscaldata categoria > I PED", "periodicita": "5 anni (funzionamento) — 10 anni (integrità)", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Forni industria chimica", "periodicita": "2 anni", "autorita": "ASL/ARPA o soggetto abilitato"},
+    {"attrezzatura": "Recipienti per liquidi surriscaldati diversi da acqua", "periodicita": "3 anni", "autorita": "ASL/ARPA o soggetto abilitato"}
+  ]
+}
