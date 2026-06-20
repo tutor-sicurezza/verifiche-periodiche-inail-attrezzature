@@ -1,5 +1,7 @@
 # Verifiche periodiche INAIL/ASL — Attrezzature di lavoro (Allegato VII D.Lgs 81/08)
 
+[![Part of the tutor-sicurezza open-data ecosystem](https://img.shields.io/badge/ecosystem-tutor--sicurezza-blue.svg)](https://github.com/tutor-sicurezza)
+
 Dataset JSON delle attrezzature di lavoro sottoposte a verifica periodica obbligatoria ai sensi dell’**Allegato VII del D.Lgs 81/08** e del **D.M. 11 aprile 2011**, con periodicità (anni) della prima verifica e delle verifiche successive, autorità competente (INAIL per la prima verifica, ASL/ARPA o soggetto abilitato per le successive), riferimenti normativi.
 
 > **English summary** — JSON dataset of work equipment subject to mandatory periodic inspections under Annex VII of Italian Legislative Decree 81/2008 and Ministerial Decree 11/04/2011. Includes inspection frequency (years), competent authority (INAIL for first inspection, regional health/environmental agency for subsequent ones), and regulatory references. Useful for compliance dashboards, maintenance scheduling, and asset-management systems in Italy.
@@ -61,6 +63,30 @@ Dataset informativo: le periodicità qui riportate si riferiscono al testo dell�
 ## Risorse correlate
 
 Per il calcolo automatico delle scadenze formazione operatori (carrelli elevatori, PLE, gru, trattori, escavatori, ecc.) ex Accordo Stato-Regioni 22/02/2012 vedi il [calcolatore di 123Formazione](https://123formazione.com/strumenti/calcolatore-scadenze).
+
+## Related repositories
+
+Open dataset / tooling ecosystem for Italian workplace safety (D.Lgs 81/08) maintained by [@tutor-sicurezza](https://github.com/tutor-sicurezza):
+
+**Datasets**
+- [italian-ateco-database](https://github.com/tutor-sicurezza/italian-ateco-database) — ATECO 2007 codes + workplace-safety risk
+- [italian-province-regioni-dataset](https://github.com/tutor-sicurezza/italian-province-regioni-dataset) — Italian provinces + regions metadata
+- [comuni-italiani-istat](https://github.com/tutor-sicurezza/comuni-italiani-istat) — Italian municipalities with ISTAT codes
+- [dlgs-81-08-glossario](https://github.com/tutor-sicurezza/dlgs-81-08-glossario) — 218 D.Lgs 81/08 glossary terms
+- [dlgs-81-08-testo-unico](https://github.com/tutor-sicurezza/dlgs-81-08-testo-unico) — D.Lgs 81/08 structured by Title + key articles index
+- [haccp-italia-normativa-regionale](https://github.com/tutor-sicurezza/haccp-italia-normativa-regionale) — HACCP regional regulations (20 Italian regions)
+- [accordi-stato-regioni-sicurezza-lavoro](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro) — Stato-Regioni training agreements
+
+**Libraries / tools**
+- [scadenze-formazione-calculator](https://github.com/tutor-sicurezza/scadenze-formazione-calculator) — Training renewal schedule calculator
+- [next-seo-italian-helpers](https://github.com/tutor-sicurezza/next-seo-italian-helpers) — Next.js SEO helpers for Italian B2B
+- [mcp-italian-workplace-safety](https://github.com/tutor-sicurezza/mcp-italian-workplace-safety) — MCP server for Claude Desktop / Cursor / Cline
+
+**Online services**
+- [Public REST API + OpenAPI 3.1 + DCAT-AP-IT](https://123formazione.com/api/public/docs) — Free open data API
+- [Live documentation site (GitHub Pages)](https://tutor-sicurezza.github.io/accordi-stato-regioni-sicurezza-lavoro/) — Accordi Stato-Regioni
+
+All resources are MIT or CC-BY licensed and maintained as production-quality open data.
 
 ## Licenza
 
