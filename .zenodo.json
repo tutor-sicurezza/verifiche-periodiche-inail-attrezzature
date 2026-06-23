@@ -1,0 +1,48 @@
+{
+  "title": "Verifiche Periodiche INAIL Attrezzature — dataset scadenzario controlli",
+  "description": "Dataset strutturato delle verifiche periodiche obbligatorie INAIL/ASL su attrezzature di lavoro ai sensi dell’art. 71 D.Lgs 81/08 e Allegato VII. Include tipologie attrezzature (gru, ascensori, recipienti a pressione, impianti di terra), periodicità, soggetti verificatori, modulistica e scadenzario calcolabile per impresa.",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "inail",
+    "verifiche-periodiche",
+    "attrezzature-lavoro",
+    "dlgs-81-08",
+    "allegato-vii",
+    "sicurezza-lavoro",
+    "compliance",
+    "open-data"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/verifiche-periodiche-inail-attrezzature",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "D.Lgs 9 aprile 2008 n. 81, art. 71 e Allegato VII",
+    "D.M. 11 aprile 2011 — Verifiche periodiche attrezzature di lavoro",
+    "INAIL — Linee guida verifiche periodiche"
+  ],
+  "publication_date": "2026-06-23"
+}
